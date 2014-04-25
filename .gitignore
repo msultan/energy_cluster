@@ -1,4 +1,5 @@
 # Build and Release Folders
+Trajectories/*
 bin/
 bin-debug/
 bin-release/
